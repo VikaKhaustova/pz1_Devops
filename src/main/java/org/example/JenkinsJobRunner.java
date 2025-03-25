@@ -10,7 +10,7 @@ import org.apache.hc.core5.http.io.entity.EntityUtils;
 import java.io.IOException;
 import java.util.Base64;
 
-public class JenkinsJobRunner {
+public class JenkinsJobR {
 
     private static final String JENKINS_URL = "http://localhost:8080";  // Адреса сервера Jenkins
     private static final String JOB_NAME = "testpipeline-build";         // Назва job, яку треба запустити
