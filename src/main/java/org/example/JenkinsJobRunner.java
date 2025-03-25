@@ -58,6 +58,7 @@ public class JenkinsJobRunner {
                 throw new RuntimeException(e);
             }
         }
+
     }
 
     // Метод для кодування авторизаційних даних
